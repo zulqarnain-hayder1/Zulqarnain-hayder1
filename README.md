@@ -23,7 +23,6 @@
 <br><br>
 
 ## GitHub Status
-<img src="https://raw.githubusercontent.com/zulqarnain-hayder/zulqarnain-hayder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zulqarnain-hayder1&theme=tokyonight"  align="left" >
 <img  src="https://github-stats-lemon.vercel.app/api?username=Zulqarnain-hayder1&show_icons=true&hide_border=true&theme=react" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zulqarnain-hayder1&theme=tokyonight" >
