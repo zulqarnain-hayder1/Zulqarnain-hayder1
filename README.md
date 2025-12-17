@@ -16,7 +16,7 @@
 ⚡ Check my ✨ [Website](https://linktr.ee/engr.zulqarnain)
 📫 How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
 👯 Contact on  [WhatsApp](http://wa.me/923554797685)<br>
-💬 Ask me about AI/Graphic Designing.<br>
+💬 Ask me about AI/Web Development.<br>
 
 <br><br>
 <br><br>
