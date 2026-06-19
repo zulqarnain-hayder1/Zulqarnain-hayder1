@@ -41,9 +41,11 @@
 
 
 ## GitHub Status
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zulqarnain-hayder1&theme=tokyonight"  align="left" >
-<br>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zulqarnain-hayder1&theme=tokyonight" >
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulqarnain-hayder1&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-hayder1&theme=tokyonight" width="48%" />
+</p>
 
 ## Languages Status
 
