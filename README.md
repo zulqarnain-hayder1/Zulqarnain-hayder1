@@ -40,18 +40,23 @@
 </p>
 
 
-## GitHub Status
+##  GitHub Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulqarnain-hayder1&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-hayder1&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulqarnain-hayder1&theme=tokyonight" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-hayder1&theme=tokyonight" height="195" />
 </p>
 
 ## Languages Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zulqarnain-hayder1&theme=tokyonight"  align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulqarnain-hayder1&theme=tokyonight"  >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zulqarnain-hayder1&theme=tokyonight" >
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
+</p>
 
 
 ## Contribution Graph
