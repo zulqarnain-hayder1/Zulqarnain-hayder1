@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,nodejs,express,mongodb,mysql,postgres,firebase,py,java,cpp,git,github,vercel,vscode,postman,figma,tailwind,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,flutter,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux&theme=dark" />
   </a>
 </p>
 
