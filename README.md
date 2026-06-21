@@ -11,12 +11,11 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Software Engineer| Developer @CUI <br>
-⚡ Check my ✨ [Website](https://linktr.ee/engr.zulqarnain)
-📫 How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
-👯 Contact on  [WhatsApp](http://wa.me/923554797685)<br>
-💬 Ask me about AI/Web Development.<br>
+**About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+Software Engineering Student | Developer @CUI <br>
+Check my  [Website](https://linktr.ee/engr.zulqarnain)
+How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
+Contact on  [WhatsApp](http://wa.me/923554797685)<br>
 
 <br><br>
 <br><br>
@@ -58,10 +57,4 @@
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zulqarnain-hayder1&theme=tokyonight" >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zulqarnain-hayder1&theme=tokyonight">
 
-<!--- Adding Tech Stack open Section -->
-## My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=Zulqarnain-hayder1)
 
-<!--[![Profile Views](https://visitcount.itsvg.in/api?id=engr-zulqarnain&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
