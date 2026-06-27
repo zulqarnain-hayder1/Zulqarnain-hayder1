@@ -23,11 +23,11 @@ Contact on  [WhatsApp](http://wa.me/923554797685)<br>
 <br><br>
 
 ## Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,flutter,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,flutter,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux,angular,django,vue,sqlite&theme=dark" />
   </a>
+
 </p>
 
 <br>
