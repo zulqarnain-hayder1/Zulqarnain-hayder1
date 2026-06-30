@@ -43,12 +43,8 @@ Contact on  [WhatsApp](http://wa.me/923554797685)<br>
 ## Languages Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulqarnain-hayder1&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulqarnain-hayder1&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulqarnain-hayder1&theme=tokyonight" width="400" />
 </p>
 
 
